@@ -1,2 +1,2 @@
 # mytestrepo
-this is my sample repo as part of 
+this is my sample repo as part of learning git basics
